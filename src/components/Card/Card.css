@@ -26,7 +26,8 @@
 .card-img-top {
   padding: 20px;
   margin-bottom: 10px;
-  border-radius: 30px;
+
+  border-radius: 50%;
 }
 
 .card-title {
