@@ -7,8 +7,8 @@ const Navbar = ({ buttonclicked }) => {
     }
     return (
         <nav className="NavbarItems">
-            <h1 className="navbar-logo">LetsGrowMore</h1>
-            <Button className="nav-button" onClick={clicked}>Get Users</Button>
+            <h1 className="navbar-logo">LGM Task 2</h1>
+            <Button className="nav-button" onClick={clicked}>Get Users From Api</Button>
         </nav>
     )
 }
