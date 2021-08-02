@@ -9,7 +9,7 @@
 }
 
 .navbar-logo {
-  color: #78909c;
+  color: #fff;
   margin-left: 20px;
   cursor: pointer;
   font-size: xx-large;
@@ -47,9 +47,6 @@
   .NavbarItems {
     position: relative;
     grid-gap: 10%;
-  }
-  .nav-button {
-    align-items: center;
   }
 
   .navbar-logo {
