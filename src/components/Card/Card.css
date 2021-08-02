@@ -5,6 +5,7 @@
   height: auto;
   padding: 20px 15px;
   display: flex;
+  background: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
   cursor: pointer;
 }
 
@@ -16,7 +17,7 @@
 .card-img-top {
   padding: 20px;
   margin-bottom: 10px;
-  border-radius: 30px;
+  border-radius: 50%;
 }
 
 .card-title {
