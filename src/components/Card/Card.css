@@ -35,7 +35,7 @@
 }
 
 .card:hover {
-  box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 20px 20px rgba(200, 5, 5, 0.2);
   transition: all 0.2s ease-out;
 }
 
