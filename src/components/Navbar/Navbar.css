@@ -49,7 +49,10 @@
     display: flex;
     grid-gap: 10%;
   }
-
+  .nav-button {
+    width: 100px;
+    height: 50px;
+  }
   .navbar-logo {
     margin-top: 10px;
     font-size: large;
