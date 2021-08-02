@@ -6,6 +6,8 @@
   grid-gap: 60%;
   font-size: 1rem;
   align-items: center;
+  justify-content: center;
+  align-items: center;
 }
 
 .navbar-logo {
