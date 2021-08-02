@@ -1,33 +1,34 @@
 .NavbarItems {
-    background-color: #463F3A;
-    height: 70px;
-    display: grid;
-    grid-template-columns: repeat(2,auto);
-    grid-gap: 60%;
-    font-size: 1rem;
-    align-items: center; 
+  background-color: #463f3a;
+  height: 70px;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-gap: 60%;
+  font-size: 1rem;
+  align-items: center;
 }
 
 .navbar-logo {
-    color: rgb(8, 8, 8);
-    margin-left: 20px;
-    cursor: pointer;
-    font-size: xx-large;
-    text-shadow: 2px 1px 2px black;
+  color: #78909c;
+  margin-left: 20px;
+  cursor: pointer;
+
+  font-size: xx-large;
+  text-shadow: 2px 1px 2px black;
 }
 
 .nav-button {
-    margin-right: 2rem;
+  margin-right: 2rem;
 }
 
 @media screen and (max-width: 768px) {
-    .NavbarItems {
-        position: relative;
-        grid-gap: 10%;
-    }
+  .NavbarItems {
+    position: relative;
+    grid-gap: 10%;
+  }
 
-    .navbar-logo{
-        margin-top: 10px;
-        font-size: large;
-    }
+  .navbar-logo {
+    margin-top: 10px;
+    font-size: large;
+  }
 }
