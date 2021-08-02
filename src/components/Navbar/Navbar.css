@@ -1,5 +1,5 @@
 .NavbarItems {
-  background-color: #463f3a;
+  background: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
   height: 70px;
   display: grid;
   grid-template-columns: repeat(2, auto);
