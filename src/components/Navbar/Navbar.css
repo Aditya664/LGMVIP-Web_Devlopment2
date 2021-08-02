@@ -46,6 +46,7 @@
 @media screen and (max-width: 768px) {
   .NavbarItems {
     position: relative;
+    display: flex;
     grid-gap: 10%;
   }
 
